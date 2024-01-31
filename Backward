@@ -1,0 +1,11 @@
+public class Backward {
+    public static void main(String[] args) {
+    
+    String[] numbers = {"10", "9", "8", "7"};
+    System.out.println("Numbers in backward: ");
+
+    for (String number : numbers) {
+        System.out.println(number);
+    }
+    }
+  }
