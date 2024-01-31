@@ -1,0 +1,7 @@
+public class NumberArray {
+  public statis void main(String[] args) {
+  
+  String[] = {"10", "9", "8", "7"};
+  System.out.println("Numbers in backward: ");
+  }
+}
